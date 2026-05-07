@@ -1,0 +1,16 @@
+Entidades afectadas:
+
+▪ http://alercweb.cl (DA 20 / PA 26)
+▪ http://autopistasdeantofagasta.cl (DA 26 / PA 36)
+▪ http://barbulnes.cl (DA 21 / PA 16)
+▪ http://boticadelalma.cl (DA 28 / PA 43)
+▪ http://carnalprime.cl (DA 26 / PA 42)
+▪ http://clubeve.cl (DA 28 / PA 23)
+▪ http://colegiovirgendepompeya.cl (DA 20 / PA 43)
+▪ http://concursowistuba.cl (DA 28 / PA 26)
+▪ http://decotextil.cl (DA 21 / PA 33)
+▪ http://embalselaspalmas.cl (DA 21 / PA 24)
+▪ http://galeriaweb.cl (DA 29 / PA 19)
+▪ http://isf-chile.org (DA 32 / PA 33)
+▪ http://newtrans.cl (DA 24 / PA 15)
+▪ http://porunchilequelee.cl (DA 30 / PA 33)

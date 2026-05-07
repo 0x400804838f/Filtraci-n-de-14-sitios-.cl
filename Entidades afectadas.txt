@@ -14,3 +14,23 @@ Entidades afectadas:
 ▪ http://isf-chile.org (DA 32 / PA 33)
 ▪ http://newtrans.cl (DA 24 / PA 15)
 ▪ http://porunchilequelee.cl (DA 30 / PA 33)
+
+
+Activación de 2FA/MFA
+
+Activa la verificación en 2 pasos:
+
+- Ve a Configuración > Autenticación de dos factores (2FA/MFA) .
+- Elige el método: Prefiere siempre "Notificaciones Push" (la app te avisa)
+o "Token por SMS".
+- Configura tus preguntas secretas: Si el banco las pide, no uses
+respuestas obvias (ej: "¿Nombre de tu perro?" → "Firulais" es malo;
+"FirulaisAzul$4" es mejor)
+
+* Google Authenticator lo encontrarás en Android/iOS:
+
+- Play Store:
+https://play.google.com/store/apps/details?id=com.google.android.apps.
+authenticator2&hl=es
+- App Store:
+https://apps.apple.com/es/app/google-authenticator/id388497605
